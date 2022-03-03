@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 William Huynh is an undergraduate biochemistry student at Cal Poly San Luis Obispo.
-Currently, he is studying to become a dentist, and has shadowed [multiple dentists]{https://wilhuy663.github.io/work/}
+Currently, he is studying to become a dentist, and has shadowed [https://wilhuy663.github.io/work/]{multiple dentists}
 
 ### Contact me
 
