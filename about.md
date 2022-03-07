@@ -9,7 +9,7 @@ Some information about you!
 ### More Information
 <img src="{{ site.baseurl}}/images/profile%20pic.jpg" alt="Picture of William Huynh" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 **William Huynh** is an undergraduate biochemistry student at Cal Poly San Luis Obispo.
-Currently, he is studying to become a dentist, and has shadowed [https://wilhuy663.github.io/work/]{multiple dentists}
+Currently, he is studying to become a dentist, and has shadowed [multiple dentists](https://wilhuy663.github.io/work/).
 
 ### Contact me
 
