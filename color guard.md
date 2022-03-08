@@ -7,7 +7,7 @@ permalink: /color&20guard/
 William Huynh has spent an unreasonable amount of his time practicing for performances, planning performances, and leading marching band color guards. He has served as leadership and staff for Color Guard under the following marching bands:
 
 ### Tri-City Band Corps
-<img src="{{ site.baseurl}}/images/TBCBandGuard.jpg" alt="Picture of Tri-City Band Corps" width="200" style="float: left; margin-top: 0px; margin-right: 10px" />
+<img src="{{ site.baseurl}}/images/TBCBandGuard.jpg" alt="Picture of Tri-City Band Corps" width="200" style="float: right; margin-top: 0px; margin-right: 10px" />
 
 Color Guard Captain for Flags and Rifles - Summer 2017 to Summer 2019
 
