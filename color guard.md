@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Color Guard
-permalink: /Color&20Guard/
+permalink: /color&20guard/
 ---
 ### His ~~Time Sink~~ Passion
 William Huynh has spent an unreasonable amount of his time practicing for performances, planning performances, and leading marching band color guards, large and small.
