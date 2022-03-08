@@ -6,7 +6,7 @@ permalink: /projects/
 # Electronics
 ## Personal Computer:
 <img src="{{ site.baseurl}}/images/PC.jpg" alt="Picture of PC" width="200" style="margin-top: 0px; margin-right: 10px" />
-- This computer is a completely self-constructed mini-itx form factor PC, optimized for video editing work, gaming, and travel. It will only get smaller from here to make it easier to carry. 
+This computer is a completely self-constructed mini-itx form factor PC, optimized for video editing work, gaming, and travel. It will only get smaller from here to make it easier to carry. 
 
 ## Stickless Figting Game Controllers:
 
