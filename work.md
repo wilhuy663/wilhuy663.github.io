@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Publications
+title: Work
 permalink: /work/
 ---
 
-AAA Dental Care
+*AAA Dental Care
 - Administrative Assistant
-- Shadow
-Thuy Mai Dental Care
-- Shadow
+- Shadow under Dr. Marlene Mao
+
+*Thuy Mai Dental Care
+- Shadow under Dr. Justin Nguyen
