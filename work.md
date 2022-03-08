@@ -4,9 +4,9 @@ title: Work
 permalink: /work/
 ---
 
-***AAA Dental Care
+### AAA Dental Care
 - Administrative Assistant
 - Shadow under Dr. Marlene Mao
 
-***Thuy Mai Dental Care
+### Thuy Mai Dental Care
 - Shadow under Dr. Justin Nguyen
