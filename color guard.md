@@ -11,12 +11,20 @@ William Huynh has spent an unreasonable amount of his time practicing for perfor
 
 Color Guard Captain for Flags and Rifles - Summer 2017 to Summer 2019
 
+
+
+
 ### Irvington High School Winter Guards
 <img src="{{ site.baseurl}}/images/IHSWinterGuard.jpg" alt="Picture of IHS Winter Guard" width="200" style="float: left; margin-top: 0px; margin-right: 10px" />
 
-- Winter Guard instructor - Winter 2020
+Winter Guard instructor - Winter 2020
+
+
+
+
+
 
 ### Cal Poly Mustang Band 
 <img src="{{ site.baseurl}}/images/MustangBand.jpeg" alt="Picture of Cal Poly Marching Band" width="200" style="float: left; margin-top: 0px; margin-right: 10px" />
 
-- Color Guard Captain - Fall 2021 to Current
+Color Guard Captain - Fall 2021 to Current
